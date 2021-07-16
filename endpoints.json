@@ -1,0 +1,6 @@
+{
+	"Twitch_IRC":"wss://irc-ws.chat.twitch.tv:443",
+	"Twitch_Emotes":"https://static-cdn.jtvnw.net/emoticons/v1/",
+	"BetterTTV_CDN":"https://cdn.betterttv.net/",
+	"BetterTTV_API":"https://api.betterttv.net/3/cached/emotes/global"
+}
